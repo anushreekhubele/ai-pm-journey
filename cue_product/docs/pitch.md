@@ -84,5 +84,5 @@ So we connected Claude to read the emails and meeting notes and give us one line
 - Is there enough left in an old email thread to tell why a deal stalled?
 - Will they let a tool read their inbox?
 
-**Next:** 8–10 interviews. First question — *"show me your list of quiet deals."* If they can't produce it, the problem isn't real for them.
+**Next:** 8–10 interviews
 
