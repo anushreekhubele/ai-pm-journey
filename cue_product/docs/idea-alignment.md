@@ -69,7 +69,7 @@ At Omdena our deals sat on Monday.com, but the board only ever told us what stag
 | --- | --- | --- | --- |
 | **Ashish** | CEO | Leads in a spreadsheet. No CRM. | Followed up twice, then stopped. None have ever come back. |
 | **Ketan Arora** | Business Development Manager, Technova | Microsoft Dynamics. Dedicated BD team. | Deliberately does not chase. 1,200 companies a year, 2–3% convert. Only chases existing clients for upsell. |
-| **Shrey Shukla** | Manager - International Business ( Key Account Acquisition & Retention ), Delhivery. International logistics. 50–70 direct reports. | Salesforce. Marketing team runs campaigns. | Has a process: CRM tasks scheduled for future dates, plus automated email and WhatsApp reactivation campaigns. |
+| **Shrey Shukla** | Manager - International Business ( Key Account Acquisition & Retention ), Delhivery. International logistics. 5–7 direct reports. | Salesforce. Marketing team runs campaigns. | Has a process: CRM tasks scheduled for future dates, plus automated email and WhatsApp reactivation campaigns. |
 
 ### Common Themes (patterns across interviews):
 
