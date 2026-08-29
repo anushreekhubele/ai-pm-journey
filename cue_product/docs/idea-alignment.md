@@ -130,11 +130,3 @@ The problem sits in the middle. Large firms automate it. Firms with very low con
 ### JTBD Statement:
 
 > "When a proposal I sent goes quiet, I want to know whether it is still worth reopening and what to say, so that I stop guessing which deals will close and stop losing revenue I already earned the right to — evidenced by 3 interviews."
-
-### Open questions for the next interviews:
-
-- At what deal size does chasing a quiet deal become worth the effort? Ketan says never at 2–3% conversion. Ashish's deals were worth chasing and he still stopped.
-
-- Would a small firm pay, or just agree that it is annoying? None of the three has ever paid for anything here.
-
-- Is there enough in an email thread to judge whether a deal is worth reopening, or does the important part happen on calls and WhatsApp?
